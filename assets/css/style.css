@@ -6,8 +6,7 @@ form {
 button {color: rgb(0, 247, 255)}
 
 body { 
-    
-    background-image:url("C:/Users/senc1/Desktop/code/Giphy/assets/images/ahs.jpg");
+    background-image: url(../images/ahs.jpg);
     /* background-position: center; */
     background-repeat: no-repeat;
     background-size: cover;
