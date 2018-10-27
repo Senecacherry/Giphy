@@ -6,11 +6,7 @@ form {
 button {color: rgb(0, 247, 255)}
 
 body { 
-    background-image: url(../images/ahs.jpg);
-    /* background-position: center; */
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 150%;
+background-color:grey;
 }
 
 .jumbotron {
