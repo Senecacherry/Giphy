@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
 
-   //per the instructions I am creating a array with topics related to AHS. The string is empty because that's where the gifs will go.
+   //per the instructions I am creating an array with topics related to AHS. The string is empty because that's where the gifs will go.
     var show = ["American Horror Story Witches", "AHS Apocalypse", "Evan Peters", "AHS Roanoke", "Murder House", "Sarah Paulson", "Jessica Lange", "Kathy Bates", "Emma Roberts", "Taissa Farmiga", "Adina Porter", "AHS Cults"]
     GIFArea = " "
     
